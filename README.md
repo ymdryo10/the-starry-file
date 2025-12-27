@@ -21,13 +21,13 @@
 Follow these steps to get **The Starry File** running on your local machine.
 
 ### 1. Clone the repository
-\`\`\`bash
+\`\`\`
 git clone https://github.com/your-username/the-starry-file.git
 cd the-starry-file
 \`\`\`
 
 ### 2. Install dependencies
-\`\`\`bash
+\`\`\`
 npm install
 \`\`\`
 
@@ -39,22 +39,8 @@ Ensure your character images are in the \`public/\` folder with these exact name
 * \`public/ryo.jpg\`
 
 ### 4. Run the development server
-\`\`\`bash
-npm run dev
 \`\`\`
-
-## 📂 Project Structure
-\`\`\`text
-├── public/
-│   ├── kita.jpg      # Lead Guitar / Vocals
-│   ├── bocchi.jpg    # Lead Guitar (Anxiety)
-│   ├── nijika.jpg    # Drums
-│   └── ryo.jpg       # Bass
-├── src/
-│   ├── bits/
-│   │   └── Folder.tsx  # The core animated Folder logic
-│   └── App.tsx         # Main entry and character mapping
-└── README.md
+npm run dev
 \`\`\`
 
 ## 🎨 Theme
@@ -63,3 +49,4 @@ The folder uses **Kessoku Yellow** (\`#FFD700\`) with a programmatically darkene
 ## 📄 License
 This project is licensed under the MIT License.
 EOF
+
