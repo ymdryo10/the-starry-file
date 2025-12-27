@@ -47,9 +47,13 @@ npm run dev
 ## 🎨 Theme
 The folder uses **Kessoku Yellow** (\`#FFD700\`) with a programmatically darkened interior, set against a "Studio Starry" dark background (\`#060606\`).
 
+## 🎬 Video Demonstration
+https://github.com/user-attachments/assets/da374f6d-eccc-4d0f-a76c-9f95d01c4f6d
+
 ## 📄 License
 This project is licensed under the MIT License.
 EOF
+
 
 
 
