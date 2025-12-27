@@ -23,7 +23,6 @@ Follow these steps to get **The Starry File** running on your local machine.
 ### 1. Clone the repository
 \`\`\`
 git clone https://github.com/your-username/the-starry-file.git
-
 cd the-starry-file
 \`\`\`
 
@@ -50,5 +49,6 @@ The folder uses **Kessoku Yellow** (\`#FFD700\`) with a programmatically darkene
 ## 📄 License
 This project is licensed under the MIT License.
 EOF
+
 
 
