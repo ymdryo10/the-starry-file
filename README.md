@@ -4,7 +4,7 @@
 
 ## ✨ Features
 
-* **🎸 Dynamic Mini-Fan Peek:** Hovering over the folder triggers a "peek" where all four character cards (Kita, Bocchi, Nijika, and Ryo) fan out slightly behind the flaps.
+* **🎸 Dynamic Mini-Fan Peek:** Hovering over the folder triggers a "peek" where the first card (Kita) fans out slightly behind the flaps.
 * **🥁 Kessoku Expansion:** Clicking the folder triggers a wide-fan animation where the cards expand into a centered, high-visibility layout.
 * **⚡ Anti-Clip Geometry:** Uses custom `clip-path` logic (`inset(-300px -300px 0px -300px)`) to ensure cards never "noclip" through the folder base while allowing corners to rotate freely behind the flaps.
 * **📐 Square Card Support:** Optimized specifically for **90x90 square images**, ensuring high-quality character art display without stretching.
@@ -53,6 +53,7 @@ https://github.com/user-attachments/assets/da374f6d-eccc-4d0f-a76c-9f95d01c4f6d
 ## 📄 License
 This project is licensed under the MIT License.
 EOF
+
 
 
 
