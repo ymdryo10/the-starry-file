@@ -7,7 +7,7 @@
 * **🎸 Dynamic Mini-Fan Peek:** Hovering over the folder triggers a "peek" where the first card (Kita) fans out slightly behind the flaps.
 * **🥁 Kessoku Expansion:** Clicking the folder triggers a wide-fan animation where the cards expand into a centered, high-visibility layout.
 * **⚡ Anti-Clip Geometry:** Uses custom `clip-path` logic (`inset(-300px -300px 0px -300px)`) to ensure cards never "noclip" through the folder base while allowing corners to rotate freely behind the flaps.
-* **📐 Square Card Support:** Optimized specifically for **90x90 square images**, ensuring high-quality character art display without stretching.
+* **📐 Square Card Support:** Optimized specifically for **1080x1080 square images**, ensuring high-quality character art display without stretching.
 
 ## 🛠️ Technologies Used
 
